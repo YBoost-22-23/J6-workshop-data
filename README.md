@@ -59,6 +59,9 @@ You have to do a datavisualization of your data (the data extracted in the first
 
 Have fun and have a beautiful datavisualization :) !
 
+### Inspirations Dataviz :
+- [sur Pinterest](https://pin.it/5o5sYRm)
+- [sur Dribbble](https://dribbble.com/search/dataviz)
 
 ## 🙇 Author
 #### Jean-Philippe CAETANO
