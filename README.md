@@ -18,7 +18,7 @@ You need to scrape data from an e-commerce website using the Scrapy module from 
 
 #### Step 3 : Open Anaconda Prompt Terminal and type this to install Scrapy Library :
 ```bash
-py -m pip install scrapy
+pip install scrapy
 ```
 
 
